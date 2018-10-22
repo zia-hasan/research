@@ -51,6 +51,7 @@
 - [ ] Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation 
 - [ ] Opening the black box of deep learning
 - [ ] Everybody Dance Now
+- [ ] Mark-RNN, YOLO
 
 
 
