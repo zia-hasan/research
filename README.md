@@ -24,7 +24,7 @@
 - [ ] Conditional Generative Adversarial Nets
 - [ ] SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
 
-###Optimization
+### Optimization
 - [ ] Switchable Normalization
 - [ ] Layer Normalization
 - [ ] Instance Normalization
@@ -33,7 +33,7 @@
 - [ ] On the convergence of adam and beyond
 - [ ] An overview of gradient descent optimization algorithms∗
 
-###Others
+### Others
 - [ ] Squeeze and Excitation Networks
 - [ ] Pixel Recurrent Neural Networks
 - [ ] WaveNet: A Generative Model for Raw Audio
