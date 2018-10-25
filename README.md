@@ -1,18 +1,20 @@
 # Papers
 ### NLP
-- [ ] Improving Language Understanding by Generative Pre-Training
-- [ ] BERT
-- [ ] MaskGAN: Better Text Generation via Filling in the______
-- [ ] A primer on neural network models for natural language processing
-- [ ] Get To The Point: Summarization with Pointer-Generator Networks
-- [ ] Pointer Networks
-- [ ] QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension
-- [ ] Taskonomy: Disentangling Task Transfer 
-- [ ] Universal Transformers
-- [ ] Dual Learning for Machine Translation
-- [ ] Text Understanding from Scratch
-- [ ] A Survey of the Usages of Deep Learning in Natural Language Processing
-- [ ] Language Generation with Recurrent Generative Adversarial Networks without Pre-training
+- [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
+- [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+- [ ] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368) [[code](https://github.com/codertimo/BERT-pytorch)]
+- [ ] [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432)
+- [ ] [Pointer Networks](https://arxiv.org/pdf/1506.03134)
+- [ ] [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](https://arxiv.org/pdf/1804.09541)
+- [ ] [Universal Transformers](https://arxiv.org/pdf/1807.03819)
+- [ ] [Dual Learning for Machine Translation](https://arxiv.org/pdf/1611.00179)
+- [ ] [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/pdf/1807.10854)
+- [ ] [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/pdf/1706.01399)
+- [ ] [Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122)
+- [ ] [Transformer XL](https://openreview.net/forum?id=HJePno0cYm)
+- [ ] [MaskGAN: Better Text Generation via Filling in the______](https://arxiv.org/pdf/1801.07736)
+- [ ] [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726)
+- [ ] [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710)
 
 ### GAN
 - [ ] Spectral Normalization for Generative Adversarial Networks
@@ -33,7 +35,8 @@
 - [ ] On the convergence of adam and beyond
 - [ ] An overview of gradient descent optimization algorithms∗
 
-### Others
+### Other Important Ones (RL/Vision etc)
+- [ ] Taskonomy: Disentangling Task Transfer 
 - [ ] Squeeze and Excitation Networks
 - [ ] Pixel Recurrent Neural Networks
 - [ ] WaveNet: A Generative Model for Raw Audio
@@ -51,7 +54,8 @@
 - [ ] Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation 
 - [ ] Opening the black box of deep learning
 - [ ] Everybody Dance Now
-- [ ] Mark-RNN, YOLO
+- [ ] Mark-RNN
+- [ ] YOLO
 
 
 
