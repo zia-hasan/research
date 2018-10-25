@@ -44,6 +44,7 @@
 - [X] Multimodal Unsupervised Image-to-Image Translation (MUNIT)
 - [ ] [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734) [[blog1](https://ajolicoeur.wordpress.com/relativisticgan/)][[blog2](https://medium.com/@jonathan_hui/gan-rsgan-ragan-a-new-generation-of-cost-function-84c5374d3c6e)][[code](https://github.com/AlexiaJM/RelativisticGAN)][Relativistic GANs]
 - [X] [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657) [InfoGAN]
+- [ ] [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784)
 - [X] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)
 - [ ] [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300) [VAEGAN]
 - [X] Auto-Encoding Variational Bayes (VAE)
@@ -51,11 +52,10 @@
 - [ ] [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717) [BEGAN]
 - [ ] Diverse Image-to-Image Translation via Disentangled Representations (MUNIT's Bro)
 - [ ] [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/pdf/1802.10151) [MUNIT's Bro]
-- [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586) [[code](https://github.com/junyanz/BicycleGAN)] [BicyleGAN]
+- [ ] [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586) [[code](https://github.com/junyanz/BicycleGAN)] [BicyleGAN]
 - [ ] Recycle-GAN: Unsupervised Video Retargeting
 - [X] Adversarial Autoencoders
 - [ ] [Wasserstein Auto-Encoders](https://openreview.net/pdf?id=HkL7n1-0b)
-- [ ] [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784)
 - [ ] [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/pdf/1809.11096)
 - [ ] [Local Image-to-Image Translation via Pixel-wise Highway Adaptive Instance Normalization](https://openreview.net/pdf?id=HJgTHnActQ)
 - [ ] [Semantically Decomposing the Latent Spaces of Generative Adversarial Networks](https://arxiv.org/pdf/1705.07904)
