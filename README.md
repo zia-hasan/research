@@ -121,11 +121,10 @@
 - [ ] [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [ ] Object Recognition: [[part1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)][[part2](https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html)][[part3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)]
 - [ ] Reinforcement Learning:
-	- [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html)
-	- [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
-	- [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
-	- [Implementing Deep Reinforcement Learning Models with Tensorflow + OpenAI Gym](https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html)
+	- [ ] [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html)
+	- [ ] [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+	- [ ] [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+	- [ ] [Implementing Deep Reinforcement Learning Models with Tensorflow + OpenAI Gym](https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html)
 - [ ] Generative Models:
-	- [Flow-based Deep Generative Models ](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
-	- [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
--
+	- [ ] [Flow-based Deep Generative Models ](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
+	- [ ] [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
