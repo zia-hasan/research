@@ -12,7 +12,6 @@
 - [ ] [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/pdf/1706.01399)
 - [ ] [Convolutional Sequence to Sequence Learning](https://arxiv.org/pdf/1705.03122)
 - [ ] [Transformer-XL: Language Modeling with Longer-Term Dependency](https://openreview.net/forum?id=HJePno0cYm)
-- [ ] [MaskGAN: Better Text Generation via Filling in the______](https://arxiv.org/pdf/1801.07736)
 - [ ] [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726)
 - [ ] [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710)
 - [ ] [ELMo: Deep contextualized word representations](https://arxiv.org/pdf/1802.05365) [[allennlp](https://allennlp.org/elmo)]
@@ -36,6 +35,7 @@
 
 ### GAN
 - [ ] [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957)
+- [ ] [MaskGAN: Better Text Generation via Filling in the______](https://arxiv.org/pdf/1801.07736)
 - [ ] [A Note on the Inception Score](https://arxiv.org/pdf/1801.01973.pdf)
 - [ ] [Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318) [SAGAN]
 - [ ] [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473) [SeqGAN]
@@ -44,7 +44,7 @@
 - [X] Multimodal Unsupervised Image-to-Image Translation (MUNIT)
 - [ ] [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734) [[blog1](https://ajolicoeur.wordpress.com/relativisticgan/)][[blog2](https://medium.com/@jonathan_hui/gan-rsgan-ragan-a-new-generation-of-cost-function-84c5374d3c6e)][[code](https://github.com/AlexiaJM/RelativisticGAN)][Relativistic GANs]
 - [X] [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657) [InfoGAN]
-- [ ] [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784)
+- [X] [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784) [CoGAN]
 - [X] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)
 - [ ] [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300) [VAEGAN]
 - [X] Auto-Encoding Variational Bayes (VAE)
