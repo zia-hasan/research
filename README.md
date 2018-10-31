@@ -81,6 +81,7 @@
 - [ ] [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068) [[code]](https://github.com/mlberkeley/Creative-Adversarial-Networks)
 - [ ] [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670)
 - [ ] [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770)
+- [ ] **[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)**
 
 #### GAN Training
 - [ ] [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862.pdf)
