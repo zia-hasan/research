@@ -40,35 +40,36 @@
 - [ ] [Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318) [SAGAN]
 - [ ] [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473) [SeqGAN]
 - [ ] [Wasserstein GAN](https://arxiv.org/abs/1701.07875) [WGAN]
-- [ ] XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings
-- [X] Multimodal Unsupervised Image-to-Image Translation (MUNIT)
 - [ ] [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/pdf/1807.00734) [[blog1](https://ajolicoeur.wordpress.com/relativisticgan/)][[blog2](https://medium.com/@jonathan_hui/gan-rsgan-ragan-a-new-generation-of-cost-function-84c5374d3c6e)][[code](https://github.com/AlexiaJM/RelativisticGAN)][Relativistic GANs]
 - [X] [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657) [InfoGAN]
 - [X] [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784) [CoGAN]
-- [X] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)
+- [X] [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593) (CycleGAN)
 - [ ] [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300) [VAEGAN]
-- [X] Auto-Encoding Variational Bayes (VAE)
-- [X] Unsupervised Image-to-Image Translation Networks (UNIT)
+- [X] [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114) (VAE)
 - [ ] [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717) [BEGAN]
-- [ ] Diverse Image-to-Image Translation via Disentangled Representations (MUNIT's Bro)
+- [X] [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/pdf/1703.00848) (UNIT) [[code]](https://github.com/mingyuliutw/UNIT)
+- [X] [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1804.04732) (MUNIT) [[code]](https://github.com/NVlabs/MUNIT)
+- [ ] [Coupled Generative Adversarial Networks](https://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks.pdf) [[code]](https://github.com/mingyuliutw/CoGAN)[coGAN]
+- [ ] [Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/pdf/1808.00948.pdf) (MUNIT's Bro)
 - [ ] [Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data](https://arxiv.org/pdf/1802.10151) [MUNIT's Bro]
+- [ ] [XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings](https://arxiv.org/pdf/1711.05139) (MUNIT's Bro)
 - [ ] [Toward Multimodal Image-to-Image Translation](https://arxiv.org/pdf/1711.11586) [[code](https://github.com/junyanz/BicycleGAN)] [BicyleGAN]
-- [ ] Recycle-GAN: Unsupervised Video Retargeting
-- [X] Adversarial Autoencoders
+- [ ] [Recycle-GAN: Unsupervised Video Retargeting](https://arxiv.org/pdf/1808.05174)
+- [X] [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644)
 - [ ] [Wasserstein Auto-Encoders](https://openreview.net/pdf?id=HkL7n1-0b)
 - [ ] [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/pdf/1809.11096)
 - [ ] [Local Image-to-Image Translation via Pixel-wise Highway Adaptive Instance Normalization](https://openreview.net/pdf?id=HJgTHnActQ)
 - [ ] [Semantically Decomposing the Latent Spaces of Generative Adversarial Networks](https://arxiv.org/pdf/1705.07904)
 - [ ] [Bayesian GAN](https://arxiv.org/pdf/1705.09558)
 - [ ] [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/pdf/1710.10196) [[code](https://github.com/tkarras/progressive_growing_of_gans)]
-- [ ] Adversarially Learned Inference
-- [ ] Improved Variational Inference with Inverse Autoregressive Flow
-- [ ] CyCADA: Cycle-Consistent Adversarial Domain Adaptation
-- [ ] Disentangling by Factorising
-- [ ] Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks
-- [ ] Generating a Fusion Image: One’s Identity and Another’s Shape
-- [ ] Glow: Generative Flow with Invertible 1×1 Convolutions
-- [ ] Are GANs Created Equal? A Large-Scale Study
+- [ ] [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704)
+- [ ] [Improved Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934)
+- [ ] [CyCADA: Cycle-Consistent Adversarial Domain Adaptation](https://arxiv.org/pdf/1711.03213.pdf)
+- [ ] [Disentangling by Factorising](https://arxiv.org/pdf/1802.05983)
+- [ ] [Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks](https://arxiv.org/pdf/1701.04722)
+- [ ] [Generating a Fusion Image: One’s Identity and Another’s Shape](https://arxiv.org/pdf/1804.07455)
+- [ ] [Glow: Generative Flow with Invertible 1×1 Convolutions](https://arxiv.org/pdf/1807.03039) [[blog]](https://blog.openai.com/glow/) [[code]](https://github.com/openai/glow)
+- [ ] [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337)
 - [ ] [Adversarially Regularized Autoencoders](https://arxiv.org/pdf/1706.04223)
 - [ ] [Generalized Denoising Auto-Encoders as Generative Models](http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models.pdf)
 - [ ] Adversarial examples for generative models
