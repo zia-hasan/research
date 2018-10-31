@@ -31,7 +31,7 @@
 - [ ] [Improving Neural Machine Translation Models with Monolingual Data](http://www.aclweb.org/anthology/P16-1009)
 - [ ] [On Tree-Based Neural Sentence Modeling](https://arxiv.org/pdf/1808.09644)
 - [ ] [Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087)
-- [ ] Language as a latent variable: Discrete generative models for sentence compression
+- [ ] [Language as a latent variable: Discrete generative models for sentence compression](https://arxiv.org/pdf/1609.07317)
 
 ### GAN
 - [ ] [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957)
@@ -72,19 +72,19 @@
 - [ ] [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/pdf/1711.10337)
 - [ ] [Adversarially Regularized Autoencoders](https://arxiv.org/pdf/1706.04223)
 - [ ] [Generalized Denoising Auto-Encoders as Generative Models](http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models.pdf)
-- [ ] Adversarial examples for generative models
-- [ ] GAN Q-learning
-- [ ] AdaGAN: Boosting Generative Models
-- [ ] Unrolled Generative Adversarial Networks
-- [ ] Do GANs actually learn the distribution? An empirical study
-- [X] StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
-- [ ] CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms
+- [ ] [Adversarial examples for generative models](https://arxiv.org/pdf/1702.06832)
+- [ ] [GAN Q-learning](https://arxiv.org/pdf/1805.04874) [[code]](https://github.com/daggertye/GAN-Q-Learning)
+- [ ] [AdaGAN: Boosting Generative Models](https://arxiv.org/pdf/1701.02386)
+- [ ] [Unrolled Generative Adversarial Networks](https://arxiv.org/pdf/1611.02163) [[code]](https://github.com/poolio/unrolled_gan)
+- [ ] [Do GANs actually learn the distribution? An empirical study](https://arxiv.org/pdf/1706.08224)
+- [X] [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020) [[code]](https://github.com/yunjey/StarGAN)
+- [ ] [CAN: Creative Adversarial Networks, Generating "Art" by Learning About Styles and Deviating from Style Norms](https://arxiv.org/pdf/1706.07068) [[code]](https://github.com/mlberkeley/Creative-Adversarial-Networks)
 - [ ] [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670)
 - [ ] [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770)
 
 #### GAN Training
-- [ ] Towards Principled Methods for Training Generative Adversarial Networks
-- [ ] Improved Training of Wasserstein GANs
+- [ ] [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862.pdf)
+- [ ] [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
 - [ ] [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498)
 
 ### Optimization
