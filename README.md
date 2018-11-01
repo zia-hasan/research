@@ -32,6 +32,7 @@
 - [ ] [On Tree-Based Neural Sentence Modeling](https://arxiv.org/pdf/1808.09644)
 - [ ] [Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087)
 - [ ] [Language as a latent variable: Discrete generative models for sentence compression](https://arxiv.org/pdf/1609.07317)
+- [ ] [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
 
 ### GAN
 - [ ] [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957)
