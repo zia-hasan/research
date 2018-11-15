@@ -121,7 +121,7 @@
 - [ ] [Mask R-CNN](https://arxiv.org/pdf/1703.06870) [[blog](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)]
 
 
-### Blog Articles
+### Blog Articles and Links
 - [ ] [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [ ] Object Recognition: [[part1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)][[part2](https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html)][[part3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)]
 - [ ] Reinforcement Learning:
@@ -132,3 +132,10 @@
 - [ ] Generative Models:
 	- [ ] [Flow-based Deep Generative Models ](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
 	- [ ] [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
+- [ ] [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
+- [ ] [Reinforcement Learning with Prediction-Based Rewards](https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards/)
+- [ ] [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](http://science.sciencemag.org/content/358/6368/eaag2612.full?ijkey=DmvGldXIEXVoQ&keytype=ref&siteid=sci) [[article](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)]
+- [ ] [Best Papers ACL 2018](https://acl2018.org/2018/06/10/best-papers/) / [Best Paper Honourable Mentions](https://acl2018.org/2018/07/26/hon-mention-papers)
+- [ ] [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+- [ ] [Gumbel softmax](http://anotherdatum.com/gumbel-gan.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [ ] [DeepStack, AlphaZero, TRPO] (http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
