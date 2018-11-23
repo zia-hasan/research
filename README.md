@@ -84,6 +84,7 @@
 - [ ] [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670)
 - [ ] [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770)
 - [ ] **[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)**
+- [ ] [CariGANs: Unpaired Photo-to-Caricature Translation ](http://ai.stanford.edu/~kaidicao/carigan.pdf) [[website](https://cari-gan.github.io/)]
 
 #### GAN Training
 - [ ] [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862.pdf)
