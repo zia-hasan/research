@@ -2,7 +2,7 @@
 ### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)]
 - [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
 - [ ] [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)
-- [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+- [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) [[tutorial1]](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)[[tutorial2]](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [ ] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368) [[code](https://github.com/codertimo/BERT-pytorch)]
 - [ ] [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432)
 - [ ] [Pointer Networks](https://arxiv.org/pdf/1506.03134)
