@@ -139,4 +139,4 @@
 - [ ] [Best Papers ACL 2018](https://acl2018.org/2018/06/10/best-papers/) / [Best Paper Honourable Mentions](https://acl2018.org/2018/07/26/hon-mention-papers)
 - [ ] [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [ ] [Gumbel softmax](http://anotherdatum.com/gumbel-gan.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
-- [ ] [DeepStack, AlphaZero, TRPO] (http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [ ] [DeepStack, AlphaZero, TRPO](http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
