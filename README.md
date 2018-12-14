@@ -85,6 +85,7 @@
 - [ ] [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770)
 - [ ] **[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)**
 - [ ] [CariGANs: Unpaired Photo-to-Caricature Translation ](http://ai.stanford.edu/~kaidicao/carigan.pdf) [[website](https://cari-gan.github.io/)]
+- [ ] [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
 
 #### GAN Training
 - [ ] [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862.pdf)
@@ -102,6 +103,7 @@
 
 ### Other Important Ones (RL/Vision etc)
 - [ ] Taskonomy: Disentangling Task Transfer
+- [ ] [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366)
 - [ ] Squeeze and Excitation Networks
 - [ ] Pixel Recurrent Neural Networks
 - [ ] WaveNet: A Generative Model for Raw Audio
