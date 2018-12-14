@@ -1,4 +1,6 @@
 # Papers
+**[Papers with Code](https://github.com/zziz/pwc?fbclid=IwAR0npqLih-18gongtnkMhCVQmY2FTTSP6PD5YVk68HPqYFRzPkRdhQ0FxfA#2018)**
+
 ### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)]
 - [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
 - [ ] [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)
@@ -142,3 +144,11 @@
 - [ ] [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [ ] [Gumbel softmax](http://anotherdatum.com/gumbel-gan.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [DeepStack, AlphaZero, TRPO](http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+
+### Courses
+- [ ] [CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/) [[Notes]](https://deepgenerativemodels.github.io/notes/index.html)
+- [ ] [CS228: PGMs](https://ermongroup.github.io/cs228-notes/)
+- [ ] [CS 294-131 Special Topics in Deep Learning (Fall 2016)](https://berkeley-deep-learning.github.io/cs294-131-f17/)
+- [ ] [CS 294-131: Special Topics in Deep Learning (Spring 2017)](https://berkeley-deep-learning.github.io/cs294-131-s17/)
+- [ ] [CS 294-131: Special Topics in Deep Learning (Fall 2017)](https://berkeley-deep-learning.github.io/cs294-131-f17/)
+- [ ] [CS 294-131: Special Topics in Deep Learning (Spring 2018)](https://berkeley-deep-learning.github.io/cs294-131-s18/)
