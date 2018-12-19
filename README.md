@@ -88,6 +88,7 @@
 - [ ] **[Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)**
 - [ ] [CariGANs: Unpaired Photo-to-Caricature Translation ](http://ai.stanford.edu/~kaidicao/carigan.pdf) [[website](https://cari-gan.github.io/)]
 - [ ] [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
+- [ ] [CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 
 #### GAN Training
 - [ ] [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/pdf/1701.04862.pdf)
