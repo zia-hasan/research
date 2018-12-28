@@ -36,6 +36,7 @@
 - [ ] [Word Translation Without Parallel Data](https://arxiv.org/pdf/1710.04087)
 - [ ] [Language as a latent variable: Discrete generative models for sentence compression](https://arxiv.org/pdf/1609.07317)
 - [ ] [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828.pdf)
+- [X] [Paraphrase Generation with Deep Reinforcement Learning](http://aclweb.org/anthology/D18-1421)
 
 ### GAN
 - [ ] [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957)
