@@ -2,7 +2,9 @@
 **[Papers with Code](https://github.com/zziz/pwc?fbclid=IwAR0npqLih-18gongtnkMhCVQmY2FTTSP6PD5YVk68HPqYFRzPkRdhQ0FxfA#2018)**
 
 ### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)]
-- [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
+- [ ] [Improving Language Understanding by Generative Pre-Training](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)[[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
+- [ ] [Language Models are Unsupervised Multitask Learners](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) [[code](https://github.com/openai/gpt-2)] [[blog](https://blog.openai.com/better-language-models/)]
+- [ ] [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504)
 - [ ] [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)
 - [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) [[tutorial1]](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)[[tutorial2]](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 - [ ] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368) [[code](https://github.com/codertimo/BERT-pytorch)]
@@ -17,7 +19,7 @@
 - [ ] [Transformer-XL: Language Modeling with Longer-Term Dependency](https://openreview.net/forum?id=HJePno0cYm)
 - [ ] [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/pdf/1510.00726)
 - [ ] [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710)
-- [ ] [ELMo: Deep contextualized word representations](https://arxiv.org/pdf/1802.05365) [[allennlp](https://allennlp.org/elmo)]
+- [X] [ELMo: Deep contextualized word representations](https://arxiv.org/pdf/1802.05365) [[allennlp](https://allennlp.org/elmo)]
 - [ ] [Adaptive Input Representations for Neural Language Modeling](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [ ] [Trellis Networks for Sequence Modeling](https://arxiv.org/pdf/1810.06682.pdf)
 - [ ] [Toward Controlled Generation of Text](https://arxiv.org/pdf/1703.00955.pdf)
@@ -146,6 +148,7 @@
 - [ ] [NLP is fun](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 - [ ] [Gumbel softmax](http://anotherdatum.com/gumbel-gan.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [DeepStack, AlphaZero, TRPO](http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+- [ ] [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
 
 ### Courses
 - [ ] [CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/) [[Notes]](https://deepgenerativemodels.github.io/notes/index.html)
