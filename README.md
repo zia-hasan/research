@@ -1,7 +1,7 @@
 # Papers
 **[Papers with Code](https://github.com/zziz/pwc?fbclid=IwAR0npqLih-18gongtnkMhCVQmY2FTTSP6PD5YVk68HPqYFRzPkRdhQ0FxfA#2018)**
 
-### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)]
+### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)][[Jacon Eisenstein NLP Notes](https://github.com/jacobeisenstein/gt-nlp-class)]
 - [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)[[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
 - [ ] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [[code](https://github.com/openai/gpt-2)] [[blog](https://blog.openai.com/better-language-models/)]
 - [ ] [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504)
