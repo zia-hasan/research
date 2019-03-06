@@ -1,5 +1,4 @@
-# Papers
-**[Papers with Code](https://github.com/zziz/pwc?fbclid=IwAR0npqLih-18gongtnkMhCVQmY2FTTSP6PD5YVk68HPqYFRzPkRdhQ0FxfA#2018)**
+# Papers and Links
 
 ### NLP [[Tasks](https://github.com/Kyubyong/nlp_tasks)][[Preprocessing](https://towardsdatascience.com/pre-processing-in-natural-language-machine-learning-898a84b8bd47)][[NLP Neural History](http://ruder.io/a-review-of-the-recent-history-of-nlp/)][[Jacon Eisenstein NLP Notes](https://github.com/jacobeisenstein/gt-nlp-class)]
 - [ ] [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)[[code](https://github.com/openai/finetune-transformer-lm)] [[blog](https://blog.openai.com/language-unsupervised/)]
@@ -99,20 +98,20 @@
 - [ ] [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498)
 
 ### Optimization
-- [ ] Switchable Normalization
-- [ ] Layer Normalization
-- [ ] Instance Normalization
-- [ ] Group Normalization
-- [ ] Weight Normalization
-- [ ] On the convergence of adam and beyond
-- [ ] An overview of gradient descent optimization algorithms∗
+- [ ] [Differentiable Learning-to-Normalize via Switchable Normalization](https://arxiv.org/pdf/1806.10779.pdf)
+- [ ] [Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
+- [ ] [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/pdf/1607.08022.pdf)
+- [ ] [Group Normalization](https://arxiv.org/pdf/1803.08494.pdf)
+- [ ] [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/pdf/1602.07868.pdf)
+- [ ] [On the Convergence of Adam and Beyond](https://openreview.net/pdf?id=ryQu7f-RZ)
+- [X] [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf)
 
 ### Other Important Ones (RL/Vision etc)
-- [ ] Taskonomy: Disentangling Task Transfer
+- [ ] [Taskonomy: Disentangling Task Transfer](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)
 - [ ] [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366)
-- [ ] Squeeze and Excitation Networks
-- [ ] Pixel Recurrent Neural Networks
-- [ ] WaveNet: A Generative Model for Raw Audio
+- [ ] [Squeeze and Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
+- [ ] [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf)
+- [ ] [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499.pdf) [[Blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)] 
 - [ ] [Parallel WaveNet: Fast High-Fidelity Speech Synthesis](https://arxiv.org/abs/1711.10433)
 - [ ] [Tacotron: Towards End-to-End Speech Synthesis](https://arxiv.org/abs/1703.10135)
 - [ ] [Tacotron series](https://google.github.io/tacotron/index.html)
@@ -120,13 +119,14 @@
 - [ ] [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](https://arxiv.org/abs/1705.08947)
 - [ ] [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning](https://arxiv.org/abs/1710.07654)
 - [ ] [Neural Voice Cloning with a Few Samples](https://arxiv.org/abs/1802.06006)
-- [ ] Dynamic Routing Between Capsules
-- [ ] Deep Learning Techniques for Music Generation – A Survey
-- [ ] Understanding deep learning requires rethinking generalization
-- [ ] Neural Turing Machines
-- [ ] Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation
-- [ ] Opening the black box of deep learning
-- [ ] Everybody Dance Now
+- [ ] [Dynamic Routing Between Capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf)
+- [ ] [Deep Learning Techniques for Music Generation – A Survey](https://arxiv.org/pdf/1709.01620.pdf)
+- [ ] [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf)
+- [ ] [Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)[[Blog1](https://medium.com/@jonathan_hui/neural-turing-machines-a-fundamental-approach-to-access-memory-in-deep-learning-b823a31fe91d)][[Blog2](https://deepmind.com/research/publications/neural-turing-machines/)]
+- [ ] [Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](https://courses.engr.illinois.edu/ece420/sp2017/UnderstandingKalmanFilter.pdf)
+- [ ] [Opening the black box of deep learning](https://arxiv.org/pdf/1805.08355.pdf)
+- [ ] [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
+- [ ] [Everybody Dance Now](https://arxiv.org/pdf/1808.07371.pdf)[[Blog](https://medium.com/datadriveninvestor/everybody-dance-now-80989a4d9b31)]
 - [ ] [Mask R-CNN](https://arxiv.org/pdf/1703.06870) [[blog](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)]
 
 
@@ -134,7 +134,7 @@
 - [ ] [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [ ] Object Recognition: [[part1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)][[part2](https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html)][[part3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)]
 - [ ] Reinforcement Learning:
-	- [ ] [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html)
+	- [ ] [The Multi-Armed Bandit Problem and Its Solutions](https://lilianweng.github.io/lil-log/2018/01/23/the-multi-armed-bandit-problem-and-its-solutions.html) [[Link2](https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c)] 
 	- [ ] [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 	- [ ] [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 	- [ ] [Implementing Deep Reinforcement Learning Models with Tensorflow + OpenAI Gym](https://lilianweng.github.io/lil-log/2018/05/05/implementing-deep-reinforcement-learning-models.html)
@@ -149,6 +149,10 @@
 - [ ] [Gumbel softmax](http://anotherdatum.com/gumbel-gan.html?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [DeepStack, AlphaZero, TRPO](http://www.depthfirstlearning.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 - [ ] [Generalized Language Models](https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html)
+- [ ] [The Artificial Intelligence Wiki](https://skymind.ai/wiki/)
+- [ ] [A Knowledge Base for the FB Group Artificial Intelligence and Deep Learning](https://github.com/arthchan2003/AIDL_KB) 
+- [ ] [SOTA Links](https://paperswithcode.com/sota)
+- [ ] [Papers with Code](https://github.com/zziz/pwc?fbclid=IwAR0npqLih-18gongtnkMhCVQmY2FTTSP6PD5YVk68HPqYFRzPkRdhQ0FxfA#2018)
 
 ### Courses
 - [ ] [CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/) [[Notes]](https://deepgenerativemodels.github.io/notes/index.html)
@@ -157,3 +161,8 @@
 - [ ] [CS 294-131: Special Topics in Deep Learning (Spring 2017)](https://berkeley-deep-learning.github.io/cs294-131-s17/)
 - [ ] [CS 294-131: Special Topics in Deep Learning (Fall 2017)](https://berkeley-deep-learning.github.io/cs294-131-f17/)
 - [ ] [CS 294-131: Special Topics in Deep Learning (Spring 2018)](https://berkeley-deep-learning.github.io/cs294-131-s18/)
+- [ ] [MIT Deep Learning](https://deeplearning.mit.edu/)
+
+### Books
+ - [ ] [Deep Learning Book](https://www.deeplearningbook.org/)
+ - [ ] [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
