@@ -20,7 +20,6 @@
 - [ ] [Text Understanding from Scratch](https://arxiv.org/pdf/1502.01710)
 - [X] [ELMo: Deep contextualized word representations](https://arxiv.org/pdf/1802.05365) [[allennlp](https://allennlp.org/elmo)]
 - [ ] [Adaptive Input Representations for Neural Language Modeling](https://openreview.net/pdf?id=ByxZX20qFQ)
-- [ ] [Trellis Networks for Sequence Modeling](https://arxiv.org/pdf/1810.06682.pdf)
 - [ ] [Toward Controlled Generation of Text](https://arxiv.org/pdf/1703.00955.pdf)
 - [ ] [Unsupervised Natural Language Generation with Denoising Autoencoders](https://arxiv.org/pdf/1804.07899.pdf)
 - [ ] [Adversarial Generation of Natural Language](http://www.aclweb.org/anthology/W/W17/W17-2629.pdf)
