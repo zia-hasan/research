@@ -5,7 +5,7 @@
 - [ ] [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [[code](https://github.com/openai/gpt-2)] [[blog](https://blog.openai.com/better-language-models/)]
 - [ ] [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/abs/1901.11504)
 - [ ] [Language GANs Falling Short](https://arxiv.org/pdf/1811.02549.pdf)
-- [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) [[tutorial1]](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)[[tutorial2]](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+- [ ] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) [[tutorial1]](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp/)[[tutorial2]](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)[[tutorial3]](https://jalammar.github.io/illustrated-bert/)
 - [ ] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368) [[code](https://github.com/codertimo/BERT-pytorch)]
 - [ ] [Semi-supervised Sequence Learning](https://arxiv.org/pdf/1511.01432)
 - [ ] [Pointer Networks](https://arxiv.org/pdf/1506.03134)
